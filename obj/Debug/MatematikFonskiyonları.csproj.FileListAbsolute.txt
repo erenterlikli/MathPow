@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\MatematikFonskiyonları\bin\Debug\MatematikFonskiyonları.exe.config
+C:\Users\Eren\source\repos\MatematikFonskiyonları\bin\Debug\MatematikFonskiyonları.exe
+C:\Users\Eren\source\repos\MatematikFonskiyonları\bin\Debug\MatematikFonskiyonları.pdb
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.Form1.resources
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.Properties.Resources.resources
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.exe
+C:\Users\Eren\source\repos\MatematikFonskiyonları\obj\Debug\MatematikFonskiyonları.pdb
